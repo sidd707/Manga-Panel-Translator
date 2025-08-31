@@ -1,0 +1,7 @@
+names:
+- Bubble
+- bubbles
+nc: 2
+path: /kaggle/working/merged_dataset
+train: train/images
+val: valid/images
