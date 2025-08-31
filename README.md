@@ -49,7 +49,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CodeNinjaSarthak/manga-panel-translator.git
+git clone https://github.com/sidd707/manga-panel-translator.git
 cd manga-panel-translator
 ```
 
