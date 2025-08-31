@@ -122,4 +122,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-_Built with ❤️ by [Sarthak Chauhan](https://github.com/CodeNinjaSarthak). If you find this project useful, give it a ⭐ on GitHub!_
+_Built with ❤️ by [Siddharth Patel](https://github.com/sidd707). If you find this project useful, give it a ⭐ on GitHub!_
