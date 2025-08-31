@@ -66,7 +66,10 @@ source venv/bin/activate # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. Launch the Gradio interface:
+4. Download the ocr model from [here](https://www.kaggle.com/datasets/sarthak4156/manga-ocr-base-safetensors-version).
+   Place the downloaded model inside models/manga_ocr.
+
+6. Launch the Gradio interface:
 
 ```bash
 python app.py
