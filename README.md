@@ -9,7 +9,6 @@
 
 A tool for translating manga panels from Japanese to English using computer vision and machine learning, while preserving the original artwork.
 
-![Project Banner](demo/banner-image.png)
 
 ## Overview
 
